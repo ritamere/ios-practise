@@ -27,6 +27,9 @@ class EmojiMemoryGame: ObservableObject {
         return model.cards
     }
 
+    
+    
+    
 
     //MARK: - Intents
 
@@ -42,3 +45,4 @@ struct Previews_EmojiMemoryGame_Previews: PreviewProvider {
         ContentView()
     }
 }
+  
